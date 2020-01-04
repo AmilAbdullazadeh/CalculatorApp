@@ -1,0 +1,19 @@
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex: 1;
+  height: 4em;
+  color: #888888;
+  outline: 1px solid #888888;
+  font-weight: lighter;
+  font-size: 1.4em;
+  background-color: #e0e1e6;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.operator {
+  color: #ffffff;
+  background-color: #fe9241;
+}
